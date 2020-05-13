@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "owner": "David",
+    "title": "SEC488-App Threat Model - David",
+    "description": "flask app to view files in the browser"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "data flow diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "David"
+  }
+}
